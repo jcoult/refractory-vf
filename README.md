@@ -1,2 +1,3 @@
-# refractory-vf
-The demo for predicting refractory VF will be posted here soon.
+# ECG-Based Prediction of Shock-Refractory Ventricular Fibrillation
+
+The manuscript describing prediction of shock-refractory VF is currently under review. Demonstration code with examples will be provided publicly here upon acceptance of the manuscipt.
